@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.20f1c1
+CRC: 3505239443
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: json
+      Dependencies: {}
+    Info_1:
+      Name: ui
+      Dependencies: {}
+    Info_2:
+      Name: lua
+      Dependencies: {}

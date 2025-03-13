@@ -1,0 +1,9 @@
+require("InitClass") -- 初始化所有类别名
+require("ItemData")
+require("PlayerData")
+require("BasePanel")
+require("MainPanel")
+require("BagPanel")
+require("ItemGrid")
+
+MainPanel:ShowMe("MainPanel")
